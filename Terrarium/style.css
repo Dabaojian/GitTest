@@ -1,0 +1,28 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+body {
+    font-family: helvetica, arial, sans-serif;
+}
+
+#left_container {
+    background-color: #eee;
+    width: 15%;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    height: 100%;
+    padding: 10px;
+}
+
+#right_container {
+    background-color: #eee;
+    width: 15%;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    height: 100%;
+    padding: 10px;
+}
