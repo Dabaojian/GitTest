@@ -1,0 +1,25 @@
+h1 {
+    color: royalblue;
+    text-align: left;
+}
+
+h2 {
+    color: saddlebrown;
+}
+
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+.error {
+    background-color: lightcoral;
+    border: red;
+}
+  
+
+
+
